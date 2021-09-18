@@ -1,0 +1,6 @@
+{
+  "dbConfig": {
+    "srvUri": "mongodb+srv://mukutexpress:mukut123@cluster0.mnub8.mongodb.net/expressPassport?retryWrites=true&w=majority"
+  },
+  "redisConfig": "redis://127.0.0.1:6379"
+}
